@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://sheoran19.github.io/sitemap/sitemap-index.xml
+Host: https://sheoran19.github.io

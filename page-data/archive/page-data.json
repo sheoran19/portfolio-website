@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-archive-js",
+    "path": "/archive/",
+    "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"date":"2020-09-16","title":"Attendance Taking System","tech":["Python","Deep Learning","Object Detection","Flask App"],"github":"https://github.com/sheoran19/Attendance-Taking-System--Facial-Recognition","external":"","company":""},"html":"<p>Repository dedicated to my #100DaysOfCode journey</p>"}},{"node":{"frontmatter":{"date":"2019-12-12","title":"Review Scrapper","tech":["Python","BeautifulSoup4","WebScrapping","Flask App"],"github":"https://github.com/sheoran19/review_web_scrapping","external":"","company":""},"html":"<p>A real time face recognition system developed in Python using Pillow, OpenCV and NumPy libraries</p>"}}]}},"pageContext":{}},
+    "staticQueryHashes": ["3115057458"]}
